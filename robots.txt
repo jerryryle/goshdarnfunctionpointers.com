@@ -2,4 +2,4 @@ User-agent: *
 Disallow: 
 Disallow: /favicon.ai
 Disallow: /.gitignore
-Sitemap: http://goshdarnfunctionpointers.com/sitemap.xml
+Sitemap: https://goshdarnfunctionpointers.com/sitemap.xml
